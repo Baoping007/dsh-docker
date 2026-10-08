@@ -4,3 +4,10 @@
 .git
 node_modules
 dist
+.env
+data
+workspace
+proxy/node_modules
+*.err
+*.log
+deepseek-harness-docker

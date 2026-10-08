@@ -1,0 +1,10 @@
+{
+  "name": "dsh-docker-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DSH HTTP and WebSocket reverse proxy",
+  "main": "index.js",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
